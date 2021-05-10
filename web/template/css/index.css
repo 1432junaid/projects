@@ -1,0 +1,37 @@
+div{
+	broder : 1px blue solid;
+}
+#top_ribbin{
+	background-color : #1100FF;
+	height: 60px;
+	width : 100%;
+	position : fixed;
+	margin : -10px;
+}
+#wall_area{
+	border : 1px black solid;
+	height : 400px;
+	width  : 1020px; 
+	background: url('../images/Firefox_wallpaper.png') 0 0 no-repeat;
+	margin : 1px auto;
+}
+#search_area{
+	background-color : #ffffff;
+	height : 100px;
+	width  : 940;
+	border : 1px black solid;
+	margin: 250px 10px;
+}
+
+#top_deals{
+	background-color : #00CCFF;
+	height : 600px;
+	width  : 1020px;
+	margin : 20px auto;
+}
+#special_benefit{
+	border : 1px black solid;
+	height : 600px;
+	width  : 1020px;
+	margin : 10px auto;
+}

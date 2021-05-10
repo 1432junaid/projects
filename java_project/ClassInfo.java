@@ -20,7 +20,7 @@ class Demo1{
 class ClassInfo{
 	public static void main(String... args){
 		Demo obj1 = new Demo();
-		Class c1 = Demo.class;
+		Class c1 = null;
 		Method[] ma 	= c1.getDeclaredMethods();
 		Constructor[] cu= c1.getDeclaredConstructors();
 		try{
